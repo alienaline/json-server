@@ -2,76 +2,179 @@
     "cards": 
     [
         {
-            "id": 3,
-            "preview_img_path": "cover/pic4.jpg",
-            "title": "Базовые принципы разработки решений с блокчейн",
-            "cost": 135000,
-            "cost_currency": "₽",
-            "series": "Программирование"
-        }, {
-            "id": 8,
-            "preview_img_path": "cover/pic9.jpg",
-            "title": "Базовые принципы разработки решений с блокчейн. Продвинутый уровень",
-            "cost": 80000,
-            "cost_currency": "₽",
-            "series": "Программирование"
-        }, {
-            "id": 1,
-            "preview_img_path": "cover/pic2.jpg",
-            "title": "Как добывают нефть",
-            "cost": 135000,
-            "cost_currency": "₽",
-            "series": "Профессия"
-        }, {
-            "id": 6,
-            "preview_img_path": "cover/pic7.jpg",
-            "title": "Как добывают нефть. Продвинутый уровень",
-            "cost": 150000,
-            "cost_currency": "₽",
-            "series": "Профессия"
-        }, {
-            "id": 2,
-            "preview_img_path": "cover/pic3.jpg",
-            "title": "Основы искусственного интеллекта и машинного обучения с Python",
-            "cost": 135000,
-            "cost_currency": "₽",
-            "series": "Программирование"
-        }, {
-            "id": 7,
-            "preview_img_path": "cover/pic8.jpg",
-            "title": "Основы искусственного интеллекта и машинного обучения с Python. Продвинутый уровень",
-            "cost": 150000,
-            "cost_currency": "₽",
-            "series": "Программирование"
-        }, {
-            "id": 4,
-            "preview_img_path": "cover/pic5.jpg",
-            "title": "Продажи от «А» до «Я»",
-            "cost": 135000,
-            "cost_currency": "₽",
-            "series": "Бизнес навыки"
+          "id": 1,
+          "jobTitle": "Infrastructure Engineer",
+          "fullName": "Ashil Codner",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
         },
         {
-            "id": 9,
-            "preview_img_path": "cover/pic10.jpg",
-            "title": "Продажи от «А» до «Я». Продвинутый уровень",
-            "cost": 160000,
-            "cost_currency": "₽",
-            "series": "Бизнес навыки"
-        }, {
-            "id": 10,
-            "preview_img_path": "cover/pic1.jpg",
-            "title": "Прокрастинация: как не откладывать дела",
-            "cost": 135000,
-            "cost_currency": "₽",
-            "series": "Бизнес навыки"
-        }, {
-            "id": 5,
-            "preview_img_path": "cover/pic6.jpg",
-            "title": "Прокрастинация: как не откладывать дела. Продвинутый уровень",
-            "cost": 150000,
-            "cost_currency": "₽",
-            "series": "Бизнес навыки"
-        }   
-    ]
+          "id": 2,
+          "jobTitle": "Project Manager",
+          "fullName": "Konstanze Anersen",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 3,
+          "jobTitle": "Solutions Architect",
+          "fullName": "Abran Gwillim",
+          "rating": "⭐️⭐️⭐️",
+          "ratingNumber": "3"
+        },
+        {
+          "id": 4,
+          "jobTitle": "CFO",
+          "fullName": "Ulrika Ference",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 5,
+          "jobTitle": "Outbound BDR",
+          "fullName": "Booth Benjefield",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 6,
+          "jobTitle": "CMO",
+          "fullName": "Catharina MacDowal",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 7,
+          "jobTitle": "Business Analyst",
+          "fullName": "Anita Johanning",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 8,
+          "jobTitle": "DevOps Engineer",
+          "fullName": "Marisa Corssen",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 9,
+          "jobTitle": "Infrastructure Engineer",
+          "fullName": "Quinlan Fissenden",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 10,
+          "jobTitle": "Product Marketing Specialist",
+          "fullName": "Vyky Mustarde",
+          "rating": "⭐️⭐️⭐️",
+          "ratingNumber": "3"
+        },
+        {
+          "id": 11,
+          "jobTitle": "Backend Engineer",
+          "fullName": "Joan Chavey",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 12,
+          "jobTitle": "Outbound SDR",
+          "fullName": "Jim Anten",
+          "rating": "⭐️⭐️⭐️⭐️⭐️",
+          "ratingNumber": "5"
+        },
+        {
+          "id": 13,
+          "jobTitle": "DevOps Engineer",
+          "fullName": "Henderson Berryann",
+          "rating": "⭐️⭐️⭐️⭐️⭐️",
+          "ratingNumber": "5"
+        },
+        {
+          "id": 14,
+          "jobTitle": "Product Marketing Specialist",
+          "fullName": "Joyann Peter",
+          "rating": "⭐️⭐️⭐️⭐️⭐️",
+          "ratingNumber": "5"
+        },
+        {
+          "id": 15,
+          "jobTitle": "Customer Success Team Lead",
+          "fullName": "Cristionna Whisker",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 16,
+          "jobTitle": "Fullstack Engineer",
+          "fullName": "Sela Cutler",
+          "rating": "⭐️⭐️⭐️⭐️⭐️",
+          "ratingNumber": "5"
+        },
+        {
+          "id": 17,
+          "jobTitle": "Outbound SDR",
+          "fullName": "Sibylle Bastide",
+          "rating": "⭐️⭐️⭐️",
+          "ratingNumber": "3"
+        },
+        {
+          "id": 18,
+          "jobTitle": "CTO",
+          "fullName": "Carney Dobbison",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 19,
+          "jobTitle": "Account Executive",
+          "fullName": "Ettie Benjefield",
+          "rating": "⭐️",
+          "ratingNumber": "1"
+        },
+        {
+          "id": 20,
+          "jobTitle": "Outbound BDR",
+          "fullName": "Jim Raffels",
+          "rating": "⭐️⭐️⭐️",
+          "ratingNumber": "3"
+        },
+        {
+          "id": 21,
+          "jobTitle": "Co-Founder",
+          "fullName": "Josie Rotter",
+          "rating": "⭐️⭐️⭐️⭐️",
+          "ratingNumber": "4"
+        },
+        {
+          "id": 22,
+          "jobTitle": "Frontend Engineer",
+          "fullName": "Halie Drains",
+          "rating": "⭐️⭐️",
+          "ratingNumber": "2"
+        },
+        {
+          "id": 23,
+          "jobTitle": "Customer Engineer",
+          "fullName": "Noelle Codner",
+          "rating": "⭐️⭐️⭐️",
+          "ratingNumber": "3"
+        },
+        {
+          "id": 24,
+          "jobTitle": "Business Analyst",
+          "fullName": "Rickey De Robertis",
+          "rating": "⭐️",
+          "ratingNumber": "1"
+        },
+        {
+          "id": 25,
+          "jobTitle": "Fullstack Engineer",
+          "fullName": "Ferdinande Ciani",
+          "rating": "⭐️⭐️⭐️⭐️⭐️",
+          "ratingNumber": "5"
+        }
+      ]
 }
